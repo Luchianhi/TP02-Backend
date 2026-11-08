@@ -630,8 +630,8 @@ Le prochain labo introduira la persistance avec **Spring Data JPA**, **Hibernate
 
 ```bash
 # Cloner le dépôt
-git clone <url-du-depot>
-cd product-api
+git clone https://github.com/Luchianhi/TP02-Backend.git
+cd TP02-Backend
 
 # Lancer l'application
 ./mvnw spring-boot:run
