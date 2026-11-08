@@ -637,4 +637,4 @@ cd product-api
 ./mvnw spring-boot:run
 ```
 
-L'API est ensuite disponible sur `http://localhost:8080/api/products`.
+L'API est ensuite disponible sur `http://localhost:8082/api/products`.
